@@ -9,7 +9,7 @@ Shell script to install a [Kingston Masternode](https://www.kingston.cash/) on a
 
 ## Installation:
 ```
-wget -q https://raw.githubusercontent.com/zoldur/kingston/master/kingston_install.sh
+wget -q https://raw.githubusercontent.com/hakinloogeez/kingston-1/master/kingston_install.sh
 bash kingston_install.sh
 ```
 ***
