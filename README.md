@@ -2,6 +2,11 @@
 Shell script to install a [Kingston Masternode](https://www.kingston.cash/) on a Linux server running Ubuntu 16.04. Use it on your own risk.
 
 ***
+
+# Install.sh Updated to a working Repo
+
+***
+
 ## Installation:
 ```
 wget -q https://raw.githubusercontent.com/zoldur/kingston/master/kingston_install.sh
