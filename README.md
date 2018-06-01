@@ -87,7 +87,4 @@ systemctl start kingston
 
 Any donation is highly appreciated.  
 
-**KGX**: KcaUMDgmTP36ihHidrZr1SVBd2SAdTqr19  
-**BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh  
-**ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E  
-**LTC**: LeZmPXHuQEhkd8iZY7a2zVAwF7DCWir2FF
+**KGX**: Khx1si5ar6UykSeroAr5w4e92p1U1e6JoN
