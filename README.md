@@ -3,7 +3,7 @@ Shell script to install a [Kingston Masternode](https://www.kingston.cash/) on a
 
 ***
 
-# Install.sh Updated
+## Updates:
 Updated git repos to make a functional installer
 ***
 
